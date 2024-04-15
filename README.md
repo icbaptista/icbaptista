@@ -2,6 +2,8 @@
 
 <h4>Currently enrolled in a masters student of Software Engineering at Aveiro University. In my most recent position, I worked as a software engineer at Altice Labs, developing a fitness app 🏋🏻‍♀️ powered by computer vision and AI 🤖. </h4> 
 
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+
 Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in AI, Generative AI, NLP and Computer Vision. 
 
 <h4> Feel free to reach out :) </h4>
