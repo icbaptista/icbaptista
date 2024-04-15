@@ -8,7 +8,6 @@ Right now, I'm seeking summer internships and/or cool research projects. Some of
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=10" alt="Tech Stack" /> 
 
-[![icbaptista GitHub stats](https://github-readme-stats.vercel.app/api?username=icbaptista)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> Feel free to reach out :) </h4>
 
