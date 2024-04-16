@@ -4,7 +4,9 @@
 
 Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in AI, Generative AI, NLP and Computer Vision. 
 
-## Main tech stack 
+### Main tech stack 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=10" alt="Tech Stack" /> 
 
