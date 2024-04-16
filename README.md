@@ -4,13 +4,6 @@
 
 Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in AI, Generative AI, NLP and Computer Vision. 
 
-### Main tech stack 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=10" alt="Tech Stack" /> 
-
-
 <h4> Feel free to reach out :) </h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-castro-baptista/)
