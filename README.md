@@ -4,14 +4,15 @@
 
 Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in Generative AI, NLP, Computer Vision and decentralized applications. 
 
-<h2>Tech Stack</h2>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" /> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
-
 <h4> Feel free to reach out :) </h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-castro-baptista/)
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ines-castro-b@proton.me)
 
+<h3>Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" /> 
+
+<h3>Top Languages</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
