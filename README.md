@@ -2,7 +2,11 @@
 
 <h4>Currently enrolled in a masters student of Software Engineering at Aveiro University. In my most recent position, I worked as a software engineer at Altice Labs, developing a fitness app 🏋🏻‍♀️ powered by computer vision and AI 🤖. </h4> 
 
-Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in Generative AI, NLP, Computer Vision and decentralized applications.  
+Right now, I'm seeking summer internships and/or cool research projects. Some of my interests lay in Generative AI, NLP, Computer Vision and decentralized applications. 
+
+<h2>Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=python,c,c++,java,mysql,linux,spring,react,docker,postgres,flutter,git&perline=10" alt="Tech Stack" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
 
