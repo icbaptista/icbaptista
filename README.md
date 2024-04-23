@@ -6,7 +6,7 @@ Right now, I'm seeking summer internships and/or cool research projects. Some of
 
 <h2>Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=python,c,c++,java,mysql,linux,spring,react,docker,postgres,flutter,git&perline=10" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icbaptista&layout=compact)
 
