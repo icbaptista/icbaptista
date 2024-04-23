@@ -11,7 +11,7 @@ Right now, I'm seeking summer internships and/or cool research projects. Some of
 
 <h3>Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,flask,c,cpp,csharp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=python,flask,c,cpp,c#,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" /> 
 
 <h3>Top Languages</h3>
 
