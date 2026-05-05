@@ -8,12 +8,9 @@ I’m a researcher working on <b>multimodal representation learning and memory-a
 My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons—combining vision, language, and structured memory.
 </h4>
 
---
 ## 🧠 Areas of Interest
 
 Representation Learning • Retrieval-Augmented Generation • Vector Databases • Multimodal AI • Neural Memory • Long-context Reasoning • AI Systems Design
-
---
 
 ## 🧠 Research Focus
 
@@ -23,13 +20,9 @@ Representation Learning • Retrieval-Augmented Generation • Vector Databases 
 - Efficient reasoning over long-context and structured data
 - Model interpretability and internal representation analysis
 
---
-
 ## 🧪 Previous industry experience
 
 - Software Engineer at **Altice Labs** → computer vision-based fitness systems 🏋🏻‍♀️  
-
---
 
 ## 🤖 AI / ML Tools & Libraries
 
@@ -37,13 +30,15 @@ Representation Learning • Retrieval-Augmented Generation • Vector Databases 
 PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Scikit-learn • Docker • Linux
 </p>
 
---
-
 ## 💻 General Tech Stack 
 
 <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" />
---
 
+## 📫 Contact
+
+- Email: ines-castro-b@proton.me  
+- LinkedIn: https://www.linkedin.com/in/in%C3%AAs-castro-baptista/  
+- GitHub: https://github.com/icbaptista  
 
 ## 📊 GitHub Stats
 
@@ -56,11 +51,3 @@ PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pa
 <img width=350 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icbaptista&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css" />
 
 </div>
-
---
-
-## 📫 Contact
-
-- Email: ines-castro-b@proton.me  
-- LinkedIn: https://www.linkedin.com/in/in%C3%AAs-castro-baptista/  
-- GitHub: https://github.com/icbaptista  
