@@ -21,12 +21,6 @@ I also have some industry experience. I worked as a software engineer/android de
 
 ## 🤖 AI / ML Tools & Libraries
 
-<p>
-PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Computer vision (ML Kit Pose Detection)
-</p>
-
-## 🤖 AI / ML Tools & Libraries
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDE21?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -50,6 +44,11 @@ PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## ☁️ Systems & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 📫 Contact
 
