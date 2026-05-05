@@ -8,11 +8,7 @@ I’m a researcher working on <b>multimodal representation learning and memory-a
 My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons—combining vision, language, and structured memory.
 </h4>
 
-## 🧠 Areas of Interest
-
-Representation Learning • Retrieval-Augmented Generation • Vector Databases • Multimodal AI • Neural Memory • Long-context Reasoning • AI Systems Design
-
-## 🧠 Research Focus
+## 🧠 Current Research Interests 
 
 - Memory-augmented neural systems (episodic + semantic memory)
 - Retrieval-based architectures for LLMs (vector search + grounding)
