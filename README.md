@@ -1,50 +1,69 @@
-## Hi! I'm Inês. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+<h3>
+I’m a researcher working on <b>Multimodal and Memory-Augmented Large Language Models</b>.
+</h3>
 
 <h4>
-I’m a researcher working on <b>Multimodal and Memory-Augmented Large Language Models</b>. I’m interested in how intelligent systems can reason, remember, and interact with complex real-world data. 
-Previously, I worked as a software engineer at Altice Labs and contributed to applied Generative AI systems (RAG, agents) at Glintt.
+I focus on how intelligent systems can reason, remember, and learn from complex multimodal data (vision + language + memory).  
+My work sits at the intersection of generative AI, representation learning, and long-context reasoning systems.
 </h4>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-castro-baptista/)
-[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ines-castro-b@proton.me)
 
 ---
 
-<h3>🧠 Interests</h3>
+## 🧠 Current Focus
+
+- Memory-Augmented LLMs (episodic + retrieval-based reasoning)  
+- Multimodal understanding (vision + language)  
+- RAG systems and evaluation frameworks  
+- Interpretability of deep learning models  
+
+---
+
+## 🧪 Previous Experience
+
+- Software Engineer at **Altice Labs** → AI-powered fitness app 🏋🏻‍♀️ using computer vision  
+- Generative AI Intern at **Glintt** → RAG systems, LLM agents, evaluation pipelines  
+- Research work on multimodal and memory-based AI systems  
+
+---
+
+## ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,docker,linux,git,cpp,java,c,mysql,postgresql,react,flutter&perline=8" />
+
+---
+
+## 🧰 AI / ML Tools & Libraries
 
 <p>
-Multimodal AI • Memory-Augmented Systems • LLMs • Generative AI • NLP • Computer Vision  
+PyTorch • TensorFlow • Hugging Face Transformers • LangChain • FAISS • Weights & Biases • NumPy • Pandas • OpenCV • Scikit-learn
 </p>
 
 ---
 
-<h3>⚙️ Tech Stack</h3>
+## 🚀 Interests
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,flask,docker,linux,git&perline=10" alt="Tech Stack" />
-
----
-
-<h3>🚀 Currently exploring</h3>
-
-<ul>
-<li>Memory mechanisms in LLMs (episodic memory, retrieval, compression)</li>
-<li>Multimodal reasoning (vision + language)</li>
-<li>Interpretability and internal representations</li>
-<li>RAG systems and evaluation pipelines</li>
-</ul>
+Generative AI • Multimodal Learning • NLP • Computer Vision • LLM Agents • Memory Systems • AI Reasoning
 
 ---
 
-<h3>⚡️ Stats</h3>
-
-<br>
+## 📊 GitHub Stats
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=icbaptista&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&locale=en&cache_seconds=86400" />
-  
-  <img width=390 src="https://streak-stats.demolab.com?user=icbaptista&theme=transparent&border_radius=10" />
-  
-  <img width=325 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icbaptista&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook,html,css&count_private=true&cache_seconds=86400" />
+
+<img width=420 src="https://github-readme-stats-sigma-five.vercel.app/api?username=icbaptista&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
+
+<img width=420 src="https://streak-stats.demolab.com?user=icbaptista&theme=tokyonight&border_radius=10" />
+
+<img width=350 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icbaptista&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css" />
+
 </div>
 
-<hr>
+---
+
+## 📫 Contact
+
+- Email: ines-castro-b@proton.me  
+- LinkedIn: https://www.linkedin.com/in/in%C3%AAs-castro-baptista/  
+- GitHub: https://github.com/icbaptista  
