@@ -1,9 +1,7 @@
 ## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h4>
 I’m currently a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b> for Video-Language modeling. My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons, combining vision, language, and structured memory inspired by the structured way the human brain perceives, processes and stores memory. 
 I also have some industry experience. I worked as a software engineer/android developer at Altice Labs and contributed to the evaluation and construction of Generative AI systems (RAG, multi-agentic pipelines).
-</h4>
 
 ## 🧠 Current Research Interests 
 
