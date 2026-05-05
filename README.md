@@ -1,49 +1,43 @@
 ## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h3>
-I’m a researcher working on <b>Multimodal and Memory-Augmented Large Language Models</b>.
+I’m a researcher working on <b>multimodal representation learning and memory-augmented systems</b>.
 </h3>
 
 <h4>
-I focus on how intelligent systems can reason, remember, and learn from complex multimodal data (vision + language + memory).  
-My work sits at the intersection of generative AI, representation learning, and long-context reasoning systems.
+My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons—combining vision, language, and structured memory.
 </h4>
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Research Focus
 
-- Memory-Augmented LLMs (episodic + retrieval-based reasoning)  
-- Multimodal understanding (vision + language)  
-- Interpretability of deep learning models  
+- Memory-augmented neural systems (episodic + semantic memory)
+- Retrieval-based architectures for LLMs (vector search + grounding)
+- Multimodal representation learning (vision + language alignment)
+- Efficient reasoning over long-context and structured data
+- Model interpretability and internal representation analysis
 
 ---
 
-## 🧰 AI / ML Tools & Libraries
+## 🧪 Experience
+
+- Software Engineer at **Altice Labs** → computer vision-based fitness systems 🏋🏻‍♀️  
+- Research work on multimodal and memory-based architectures for large-scale models  
+
+---
+
+## ⚙️ Systems & Tools
 
 <p>
-PyTorch • TensorFlow • Hugging Face • Transformers • LangChain • RAG • Pandas • OpenCV • Scikit-learn
+PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Scikit-learn • Docker • Linux
 </p>
 
 ---
 
-## 🚀 Interests
-<p>
-Generative AI • Multimodal Learning • NLP • Computer Vision • LLM Agents • Memory Systems • AI Reasoning
-</p>
+## 🧠 Areas of Interest
 
----
-
-## 🧪 Previous Experience
-
-- Software Engineer at **Altice Labs** → AI-powered fitness app 🏋🏻‍♀️ using computer vision  
-- Research work on multimodal and memory-based AI systems  
-
----
-
-## ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,docker,linux,git,cpp,java,c,mysql,postgresql,react,flutter&perline=8" />
+Representation Learning • Retrieval-Augmented Generation • Vector Databases • Multimodal AI • Neural Memory • Long-context Reasoning • AI Systems Design
 
 ---
 
