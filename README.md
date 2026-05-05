@@ -31,9 +31,9 @@ PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pa
 
 ## 📫 Contact
 
-- Email: ines-castro-b@proton.me  
-- LinkedIn: https://www.linkedin.com/in/in%C3%AAs-castro-baptista/  
-- GitHub: https://github.com/icbaptista  
+[![Email](https://img.shields.io/badge/Email-proton.me-8B89CC)](mailto:ines-castro-b@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0077B5)](https://www.linkedin.com/in/in%C3%AAs-castro-baptista/)
+[![GitHub](https://img.shields.io/badge/GitHub-icbaptista-181717)](https://github.com/icbaptista)
 
 ## 📊 GitHub Stats
 
