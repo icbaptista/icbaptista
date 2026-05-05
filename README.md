@@ -1,7 +1,7 @@
 ## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h4>
-I’m a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b> for Video-Language modeling. My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons, combining vision, language, and structured memory inspired by the structured way the human brain perceives, processes and stores memory. 
+I’m currently a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b> for Video-Language modeling. My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons, combining vision, language, and structured memory inspired by the structured way the human brain perceives, processes and stores memory. 
 I also have some industry experience. I worked as a software engineer/android developer at Altice Labs and contributed to the evaluation and construction of Generative AI systems (RAG, multi-agentic pipelines).
 </h4>
 
@@ -22,7 +22,7 @@ I also have some industry experience. I worked as a software engineer/android de
 ## 🤖 AI / ML Tools & Libraries
 
 <p>
-PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Scikit-learn • Docker • Linux
+PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Computer vision (ML Kit Pose Detection)
 </p>
 
 ## 🧑‍💻 General Tech Stack 
