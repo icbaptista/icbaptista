@@ -15,29 +15,14 @@ My work sits at the intersection of generative AI, representation learning, and 
 
 - Memory-Augmented LLMs (episodic + retrieval-based reasoning)  
 - Multimodal understanding (vision + language)  
-- RAG systems and evaluation frameworks  
 - Interpretability of deep learning models  
-
----
-
-## 🧪 Previous Experience
-
-- Software Engineer at **Altice Labs** → AI-powered fitness app 🏋🏻‍♀️ using computer vision  
-- Generative AI Intern at **Glintt** → RAG systems, LLM agents, evaluation pipelines  
-- Research work on multimodal and memory-based AI systems  
-
----
-
-## ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,docker,linux,git,cpp,java,c,mysql,postgresql,react,flutter&perline=8" />
 
 ---
 
 ## 🧰 AI / ML Tools & Libraries
 
 <p>
-PyTorch • TensorFlow • Hugging Face Transformers • LangChain • FAISS • Weights & Biases • NumPy • Pandas • OpenCV • Scikit-learn
+PyTorch • TensorFlow • Hugging Face • Transformers • LangChain • RAG • Pandas • OpenCV • Scikit-learn
 </p>
 
 ---
@@ -45,6 +30,18 @@ PyTorch • TensorFlow • Hugging Face Transformers • LangChain • FAISS •
 ## 🚀 Interests
 
 Generative AI • Multimodal Learning • NLP • Computer Vision • LLM Agents • Memory Systems • AI Reasoning
+---
+
+## 🧪 Previous Experience
+
+- Software Engineer at **Altice Labs** → AI-powered fitness app 🏋🏻‍♀️ using computer vision  
+- Research work on multimodal and memory-based AI systems  
+
+---
+
+## ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,docker,linux,git,cpp,java,c,mysql,postgresql,react,flutter&perline=8" />
 
 ---
 
