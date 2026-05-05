@@ -28,8 +28,10 @@ PyTorch • TensorFlow • Hugging Face • Transformers • LangChain • RAG �
 ---
 
 ## 🚀 Interests
-
+<p>
 Generative AI • Multimodal Learning • NLP • Computer Vision • LLM Agents • Memory Systems • AI Reasoning
+</p>
+
 ---
 
 ## 🧪 Previous Experience
