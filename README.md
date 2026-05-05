@@ -1,7 +1,7 @@
 ## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h3>
-I’m a researcher working on <b>multimodal representation learning and memory-augmented systems</b>.
+I’m a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b>.
 </h3>
 
 <h4>
@@ -16,7 +16,7 @@ My work focuses on building and understanding systems that can store, retrieve, 
 - Efficient reasoning over long-context and structured data
 - Model interpretability and internal representation analysis
 
-## 🧪 Previous industry experience
+## 🏢 Previous industry experience
 
 - Software Engineer at **Altice Labs** → computer vision-based fitness systems 🏋🏻‍♀️  
 
@@ -26,7 +26,7 @@ My work focuses on building and understanding systems that can store, retrieve, 
 PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Scikit-learn • Docker • Linux
 </p>
 
-## 💻 General Tech Stack 
+## 🧑‍💻 General Tech Stack 
 
 <img src="https://skillicons.dev/icons?i=python,flask,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" />
 
