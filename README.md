@@ -1,24 +1,23 @@
 ## Hi! I'm Inês <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h3>
-I’m a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b>.
-</h3>
-
 <h4>
-My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons—combining vision, language, and structured memory.
+I’m a researcher 🧪 working on <b>multimodal representation learning and memory-augmented systems</b> for Video-Language modeling. My work focuses on building and understanding systems that can store, retrieve, and reason over information across long time horizons, combining vision, language, and structured memory inspired by the structured way the human brain perceives, processes and stores memory. 
+I also have some industry experience. I worked as a software engineer/android developer at Altice Labs and contributed to the evaluation and construction of Generative AI systems (RAG, multi-agentic pipelines).
 </h4>
 
 ## 🧠 Current Research Interests 
 
-- Memory-augmented neural systems (episodic + semantic memory)
-- Retrieval-based architectures for LLMs (vector search + grounding)
+- Memory-augmented Video-language modeling
 - Multimodal representation learning (vision + language alignment)
-- Efficient reasoning over long-context and structured data
-- Model interpretability and internal representation analysis
+- Efficiency in LLMs and VLMs over Long-context data
+- LLM and VLM interpretability 
+- Retrieval-Augmented Generation architectures for LLMs (vector search + grounding)
+- World models
+- Efficient Coding of the Human Brain
 
 ## 🏢 Previous industry experience
 
-- Software Engineer at **Altice Labs** → computer vision-based fitness systems 🏋🏻‍♀️  
+- Software Engineer at **Altice Labs** → computer vision-based fitness systems for a Flutter-based mobile app 🏋🏻‍♀️
 
 ## 🤖 AI / ML Tools & Libraries
 
