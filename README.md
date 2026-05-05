@@ -9,6 +9,11 @@ My work focuses on building and understanding systems that can store, retrieve, 
 </h4>
 
 ---
+## 🧠 Areas of Interest
+
+Representation Learning • Retrieval-Augmented Generation • Vector Databases • Multimodal AI • Neural Memory • Long-context Reasoning • AI Systems Design
+
+---
 
 ## 🧠 Research Focus
 
@@ -20,26 +25,24 @@ My work focuses on building and understanding systems that can store, retrieve, 
 
 ---
 
-## 🧪 Experience
+## 🧪 Previous industry experience
 
 - Software Engineer at **Altice Labs** → computer vision-based fitness systems 🏋🏻‍♀️  
-- Research work on multimodal and memory-based architectures for large-scale models  
 
 ---
 
-## ⚙️ Systems & Tools
+## 🤖 AI / ML Tools & Libraries
 
 <p>
 PyTorch • Transformers • LangChain • Hugging Face • RAG • NumPy • Pandas • OpenCV • Scikit-learn • Docker • Linux
 </p>
 
 ---
+## 💻 General Tech Stack 
 
-## 🧠 Areas of Interest
-
-Representation Learning • Retrieval-Augmented Generation • Vector Databases • Multimodal AI • Neural Memory • Long-context Reasoning • AI Systems Design
-
+<img src="https://skillicons.dev/icons?i=python,flask,c,cpp,java,mysql,linux,spring,react,docker,flutter,git&perline=20" alt="Tech Stack" />
 ---
+
 
 ## 📊 GitHub Stats
 
