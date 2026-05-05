@@ -19,7 +19,7 @@ I also have some industry experience. I worked as a software engineer/android de
 
 - Software Engineer at **Altice Labs** → computer vision-based fitness systems for a Flutter-based mobile app 🏋🏻‍♀️
 
-## 🤖 AI / ML Tools & Libraries
+## 🤖 AI / ML Tools 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
