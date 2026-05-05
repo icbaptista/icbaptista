@@ -1,7 +1,8 @@
 ## Hi! I'm Inês. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h4>
-I’m a researcher working on <b>Multimodal and Memory-Augmented Large Language Models</b>. I’m interested in how intelligent systems can reason, remember, and interact with complex real-world data. Previously, I worked as a software engineer at Altice Labs and contributed to applied Generative AI systems (RAG, agents) at Glintt.
+I’m a researcher working on <b>Multimodal and Memory-Augmented Large Language Models</b>. I’m interested in how intelligent systems can reason, remember, and interact with complex real-world data. 
+Previously, I worked as a software engineer at Altice Labs and contributed to applied Generative AI systems (RAG, agents) at Glintt.
 </h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-castro-baptista/)
