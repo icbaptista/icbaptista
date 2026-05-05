@@ -42,7 +42,7 @@ Multimodal AI • Memory-Augmented Systems • LLMs • Generative AI • NLP �
 <div align=center>
   <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=icbaptista&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&locale=en&cache_seconds=86400" />
   
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=icbaptista&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=86400" />
+  <img width=390 src="https://streak-stats.demolab.com?user=icbaptista&theme=transparent&border_radius=10" />
   
   <img width=325 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icbaptista&layout=compact&langs_count=8&theme=transparent&hide=jupyter%20notebook,html,css&count_private=true&cache_seconds=86400" />
 </div>
